@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Kwak SeungGyu :blush:
 <!--
 **SeungGyu-Kwak/SeungGyu-Kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,3 +15,5 @@ activity : ["2017 코드클럽 교육봉사",
             "KB 국민은행 IT 아카데미 IT's Your Life 3기"]
 hobbies : ["BasketBall", "BaseBall", "Travel"]
 ```
+### ✨Tech Stack✨
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
